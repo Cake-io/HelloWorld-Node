@@ -1,0 +1,26 @@
+{
+  "name": "helloworld-node",
+  "version": "1.0.0",
+  "description": " sample hello world app in Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cake-io/HelloWorld-Node.git"
+  },
+  "keywords": [
+    "hello-world",
+    "node.js"
+  ],
+  "author": "iChristwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cake-io/HelloWorld-Node/issues"
+  },
+  "homepage": "https://github.com/Cake-io/HelloWorld-Node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
